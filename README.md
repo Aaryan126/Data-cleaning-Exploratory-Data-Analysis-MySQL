@@ -11,11 +11,11 @@ This project demonstrates data cleaning and exploratory data analysis (EDA) usin
    - Included insights such as the total number of layoffs per company and trends over time.
 
 ## Files:
-- `sql/cleaning.sql`: SQL queries for data cleaning.
-- `sql/eda.sql`: SQL queries for exploratory analysis.
+- `Data-Cleaning-Project.sql`: SQL queries for data cleaning.
+- `Exploratory-Data_Analysis.sql`: SQL queries for exploratory analysis.
 
 ## How to Use:
 1. Clone the repo.
 2. Import the dataset into MySQL.
-3. Run `cleaning.sql` to clean the data.
-4. Run `eda.sql` for analysis.
+3. Run `Data-Cleaning-Project.sql` to clean the data.
+4. Run `Exploratory-Data_Analysis.sql` for EDA.
